@@ -5,7 +5,7 @@ Validaten examples with git hooks.
 
 ## Getting Started
 
-Well I guess I know you will need git for it. :-)
+Well I guess you know that you will need git for it. :-)
 
 ## Installation
 
@@ -36,9 +36,17 @@ replace this with the a validation from hooks/
 
 If you want to know more about hooks read the [git documentation](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks)
 
-## Deployment
+## None ZSH Users
 
-Add additional notes about how to deploy this on a live system
+If you don't use zsh then you have to change the fist 2 lines from the template
+
+```
+#!/bin/zsh
+source ~/.zshrc
+```
+
+replace with `#!/bin/sh`
+
 
 ## Contributing
 
