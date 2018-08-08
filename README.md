@@ -5,7 +5,7 @@ Validation examples with git hooks.
 
 ## Getting Started
 
-Well I guess you know that you will need git for it. :-)
+Well I guess you know that you will need git. :-)
 
 ## Installation
 
