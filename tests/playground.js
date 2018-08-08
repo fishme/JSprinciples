@@ -1,5 +1,5 @@
-console.log(test);
 
+debugger;
 
 
 testasdfasdf
