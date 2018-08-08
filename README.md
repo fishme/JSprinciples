@@ -1,6 +1,6 @@
 # JS Principles
 
-Validaten examples with git hooks.
+Validation examples with git hooks.
 
 
 ## Getting Started
