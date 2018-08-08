@@ -25,7 +25,7 @@ You can also open your project in the terminal and run  `open .git/`
 
 * select a git templates/
 
-replace this with the a validation from hooks/ 
+replace this with a validation from hooks/ 
 ```
    # !!!!!!
    # paste from hooks/*
