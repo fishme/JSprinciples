@@ -23,7 +23,7 @@ You can also open your project in the terminal and run  `open .git/`
 
 ## How to use
 
-* select a git templates/
+* select a template from [templates/](https://github.com/fishme/JSprinciples/tree/master/templates)
 
 replace this with a validation from hooks/ 
 ```
