@@ -38,7 +38,7 @@ If you want to know more about hooks read the [git documentation](https://git-sc
 
 ## None ZSH Users
 
-If you don't use zsh then you have to change the fist 2 lines from the template
+If you don't use [zsh](https://ohmyz.sh/) then you have to change the fist 2 lines from the template
 
 ```
 #!/bin/zsh
