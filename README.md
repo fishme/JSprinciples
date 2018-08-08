@@ -25,7 +25,7 @@ You can also open your project in the terminal and run  `open .git/`
 
 * select a template from [templates/](https://github.com/fishme/JSprinciples/tree/master/templates)
 
-replace this with a validation from hooks/ 
+replace this with a validation from [hooks/](https://github.com/fishme/JSprinciples/tree/master/hooks)
 ```
    # !!!!!!
    # paste from hooks/*
